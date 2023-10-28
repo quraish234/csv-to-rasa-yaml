@@ -1,0 +1,109 @@
+version: "3.1"
+
+nlu:
+
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: faq/lastdemand_intro
+  examples: |
+    - What is Last Demand?
+    - Explain Last Demand
+    - Tell me about Last Demand
+
+- intent: faq/ld_res_debt_issue
+  examples: |
+    - How does Last Demand help resolve debt issues?
+    - What does Last Demand do to resolve debt
+
+- intent: faq/dispute_dept
+  examples: |
+    - What happens if I dispute a debt with Last Demand?
+    - Explain the dispute process
+
+- intent: faq/debt_is_not_mine
+  examples: |
+    - What should I do if I believe the debt is not mine?
+    - How to handle a debt I believe is not mine?
+    - How can I verify the debt's accuracy?
+
+- intent: faq/multiple_depts_LD
+  examples: |
+    - Can I dispute multiple debts with Last Demand?
+    - Is it possible to challenge multiple debts using the Last Demand process?
+    - How do I go about disputing several debts through Last Demand?
+    - Can I dispute more than one debt at a time with Last Demand?
+
+- intent: faq/additional_fees_with_partial_payments
+  examples: |
+    - Are there additional fees associated with partial payments?
+    - Do I need to pay extra fees when making partial payments?
+    - Are there any additional charges when I make a partial payment?
+    - Will I incur any extra costs if I choose to pay in installments?
+
+- intent: faq/partial_debt
+  examples: |
+    - What happens if I partially pay the debt but miss the deadline?
+    - If I make a partial payment but don't meet the deadline, what are the consequences?
+    - Can you explain the repercussions of partially paying a debt and then exceeding the due date?
+    - What happens if I miss the deadline after making a partial payment on my debt?
+    - Are there penalties for not meeting the deadline after making a partial payment?
+
+- intent: faq/expired_debt
+  examples: |
+    - What occurs after the expiration date of my debt?
+    - What are the consequences when my debt reaches the expiration date?
+    - Can you explain the process that follows after the debt expiration date?
+
+- intent: faq/settlement_negotiation
+  examples: |
+    - Is it possible to negotiate a settlement with Last Demand?
+    - How can I discuss a settlement with Last Demand?
+    - What's the procedure for settlement negotiation with Last Demand?
+
+- intent: faq/consequences_unresolved_debt
+  examples: |
+    - What happens if I don't resolve my debt?
+    - What are the repercussions of leaving my debt unresolved?
+    - Can you explain the potential consequences of not addressing my debt?
+
+
+#- intent: last_demand
+#  examples: |
+#    - What is last demand?
+#    - Explain last demand?
+#    - what does last demand do?
+#    - last demand
+  
+#- intent: contact_time
+#  examples: |
+#    - When can debt collector contact me?
+#    - What is the contact time of debt collector?
+#    - At what debt collector contact?
+#    - contact time

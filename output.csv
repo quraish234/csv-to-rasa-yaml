@@ -1,0 +1,56 @@
+text,intent
+hey,greet
+hello,greet
+hi,greet
+hello there,greet
+good morning,greet
+good evening,greet
+moin,greet
+hey there,greet
+let's go,greet
+hey dude,greet
+goodmorning,greet
+goodevening,greet
+good afternoon,greet
+cu,goodbye
+good by,goodbye
+cee you later,goodbye
+good night,goodbye
+bye,goodbye
+goodbye,goodbye
+have a nice day,goodbye
+see you around,goodbye
+bye bye,goodbye
+see you later,goodbye
+What is Last Demand?,faq/lastdemand_intro
+Explain Last Demand,faq/lastdemand_intro
+Tell me about Last Demand,faq/lastdemand_intro
+How does Last Demand help resolve debt issues?,faq/ld_res_debt_issue
+What does Last Demand do to resolve debt,faq/ld_res_debt_issue
+What happens if I dispute a debt with Last Demand?,faq/dispute_dept
+Explain the dispute process,faq/dispute_dept
+What should I do if I believe the debt is not mine?,faq/debt_is_not_mine
+How to handle a debt I believe is not mine?,faq/debt_is_not_mine
+How can I verify the debt's accuracy?,faq/debt_is_not_mine
+Can I dispute multiple debts with Last Demand?,faq/multiple_depts_LD
+Is it possible to challenge multiple debts using the Last Demand process?,faq/multiple_depts_LD
+How do I go about disputing several debts through Last Demand?,faq/multiple_depts_LD
+Can I dispute more than one debt at a time with Last Demand?,faq/multiple_depts_LD
+Are there additional fees associated with partial payments?,faq/additional_fees_with_partial_payments
+Do I need to pay extra fees when making partial payments?,faq/additional_fees_with_partial_payments
+Are there any additional charges when I make a partial payment?,faq/additional_fees_with_partial_payments
+Will I incur any extra costs if I choose to pay in installments?,faq/additional_fees_with_partial_payments
+What happens if I partially pay the debt but miss the deadline?,faq/partial_debt
+"If I make a partial payment but don't meet the deadline, what are the consequences?",faq/partial_debt
+Can you explain the repercussions of partially paying a debt and then exceeding the due date?,faq/partial_debt
+What happens if I miss the deadline after making a partial payment on my debt?,faq/partial_debt
+Are there penalties for not meeting the deadline after making a partial payment?,faq/partial_debt
+What occurs after the expiration date of my debt?,faq/expired_debt
+What are the consequences when my debt reaches the expiration date?,faq/expired_debt
+Can you explain the process that follows after the debt expiration date?,faq/expired_debt
+Is it possible to negotiate a settlement with Last Demand?,faq/settlement_negotiation
+How can I discuss a settlement with Last Demand?,faq/settlement_negotiation
+What's the procedure for settlement negotiation with Last Demand?,faq/settlement_negotiation
+What happens if I don't resolve my debt?,faq/consequences_unresolved_debt
+What are the repercussions of leaving my debt unresolved?,faq/consequences_unresolved_debt
+Can you explain the potential consequences of not addressing my debt?,faq/consequences_unresolved_debt
